@@ -1,8 +1,7 @@
-
 # KubeSpray - K8S control-plane (Keepalived, HAProxy)
 
-![Image](https://github.com/user-attachments/assets/4c354b94-39d8-46d6-9ed6-46740b5d1ad7)
+![Image](https://github.com/user-attachments/assets/0e8c2404-68e5-495e-8899-99f50c2d651b)
 
 # On-Premise K8S - MetalLB, Nginx-Ingress-Controller
 
-![Image](https://github.com/user-attachments/assets/658e78f1-864f-4fad-b40c-ce9c25304ed1)
+![Image](https://github.com/user-attachments/assets/3ce39247-6fab-4d60-95a0-e05173cee21b)
